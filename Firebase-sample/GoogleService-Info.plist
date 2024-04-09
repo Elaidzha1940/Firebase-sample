@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyCvOivPCtUO5hGbgwaC2gxuDTE7vTLOV0c</string>
+	<string>AIzaSyBW86VSaNjY7FZAZcgc5WVmaAL0zpJGawo</string>
 	<key>GCM_SENDER_ID</key>
-	<string>455849467325</string>
+	<string>54423183135</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>EliId.Firebase-sample</string>
 	<key>PROJECT_ID</key>
-	<string>fir-sample-2f6ba</string>
+	<string>fir-sample-78f01</string>
 	<key>STORAGE_BUCKET</key>
-	<string>fir-sample-2f6ba.appspot.com</string>
+	<string>fir-sample-78f01.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:455849467325:ios:278ca9fc878339bdd706d4</string>
+	<string>1:54423183135:ios:60047be808724c6c711a2a</string>
 </dict>
 </plist>
